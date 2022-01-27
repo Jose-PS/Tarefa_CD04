@@ -3,7 +3,7 @@ package Cuentas;
 public class CCuenta {
 
     /**Obtemos o nome
-     * @return the nombre
+     * @return devolve o nome
      */
     public String getNombre() {
         return nombre;
